@@ -6,7 +6,7 @@ You can find **owner** and **project name** of the current repl in environment v
 
 ![owner and slug](/images/misc/ownerproject.png)
 
-For example, in Python:
+## Using Python:
 
 ```python
 import os
@@ -28,3 +28,10 @@ print(f"This project can be found at https://repl.it/@{user}/{slug}")
 ```
 
 This is useful, for example, when having homework assignments automatically submit themselves to an [autograding server](/Teams/Testing).
+
+## Using JavaScript/Node:
+```js
+console.log(process.env.REPL_OWNER) 
+console.log(process.env.REPL_SLUG) 
+```
+
