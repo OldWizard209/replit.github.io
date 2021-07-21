@@ -24,12 +24,10 @@ print(os.getenv("REPL_SLUG"))
 import os
 user = os.getenv("REPL_OWNER")
 slug = os.getenv("REPL_SLUG")
-print(f"This project can be found at https://repl.it/@{user}/{slug}")
+print(f"This project can be found at https://replit.com/@{user}/{slug}")
 ```
 
-This is useful, for example, when having homework assignments automatically submit themselves to an [autograding server](/Teams/Testing).
-
-## Using JavaScript/Node:
+## Using Node.js:
 ```js
 console.log(process.env.REPL_OWNER) 
 console.log(process.env.REPL_SLUG) 
