@@ -70,3 +70,7 @@ Not specifically, but there are two ways to work around this:
 1. Share every repl from your old account to your new one. Once you share all the repls, you would then fork each one on your new account. 
 
 2. Change the email address on the existing account, which means you would not need to create another account. This method will not be useful if you have already created another account with the new email.
+
+##### How do I change my username?
+
+To change your username, head over to https://replit.com/~/cli and change it from there. However, you can only change it once. If you want to change it again, email replit at `contact@replit.com`
