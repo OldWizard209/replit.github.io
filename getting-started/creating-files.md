@@ -10,7 +10,9 @@ Here is an example in Python:
 
 <iframe height="400px" width="100%" src="https://repl.it/@amasad/modules?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
-Howver, if you don't want to import the file, rather you want to run it by itself, you will need to [configure the run button](https://docs.replit.com/programming-ide/configuring-run-button), because all python repls are configured to run a file named `main.py`, so if you want to change its name, you will need to tell replit to run that particular file.
+
+
+However, if you don't want to import the file, rather you want to run it by itself, you will need to [configure the run button](https://docs.replit.com/programming-ide/configuring-run-button), because all python repls are configured to run a file named `main.py`, so if you want to change its name, you will need to tell replit to run that particular file.
 
 ## Uploading Files and Assets
 
